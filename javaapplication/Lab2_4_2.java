@@ -1,8 +1,4 @@
-/*
- *
- * To output least number
- *
- */
+
 package lab2_4_2;
 import java.util.Scanner;
 

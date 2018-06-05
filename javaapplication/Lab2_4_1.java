@@ -1,8 +1,4 @@
-/*
- *
- * Verification Names
- *
- */
+
 package lab2_4_1;
 import java.util.Scanner;
 
