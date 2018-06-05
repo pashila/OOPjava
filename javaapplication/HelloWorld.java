@@ -1,8 +1,4 @@
-/*
- *
- * Verification Names
- *
- */
+
 package helloworld;
 /**
  *
