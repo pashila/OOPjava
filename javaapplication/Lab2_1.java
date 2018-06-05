@@ -1,6 +1,13 @@
-
+/*
+ *
+ * Verification Names
+ *
+ */
 package lab2_1;
-
+/**
+ *
+ * @author pashila
+ */
 public class Lab2_1 {
 
    public static void main(String[] args){

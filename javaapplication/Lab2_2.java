@@ -1,6 +1,13 @@
-
+/*
+ *
+ * Verification Names
+ *
+ */
 package lab2_2;
-
+/**
+ *
+ * @author pashila
+ */
 import java.util.Scanner;
 
 class MyUtility {
